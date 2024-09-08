@@ -1,6 +1,3 @@
-# host ubuntu
 192.168.1.173
-# host centos
 192.168.1.180
-# host ubuntu dns client
 192.168.1.160
